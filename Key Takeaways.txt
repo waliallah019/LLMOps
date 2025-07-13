@@ -1,0 +1,9 @@
+Key Takeaways & Important Notes:
+
+*   **Azure OpenAI != Public OpenAI:** Your models run securely within *your* Azure subscription, not public OpenAI.
+*   **Resource Groups are Essential:** Simplify cleanup and management; always use them strategically.
+*   **Microsoft Learn is Your Bible:** Your primary, up-to-date resource for all things Azure and LLMs.
+*   **LLMs are Probability Engines:** They predict next words, *not* facts. Always verify outputs to combat "hallucinations."
+*   **Risk Mitigation is Multi-faceted:** Prompt Engineering, RAG, Fine-tuning – use a combination for best results, balancing cost and quality.
+*   **LLMOps is Continuous:** Focus on automation, deployment, and crucial *monitoring* throughout the LLM lifecycle.
+*   **Choose the Right Azure AI Service:** Azure OpenAI for OpenAI models, Azure ML for broader ML and custom models.
